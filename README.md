@@ -34,7 +34,8 @@ The dataset (`STUDENT.CSV`) contains 20 student records with the following key c
 - Department-wise average percentage calculation.
 
 # 7. Output / Screenshots
-*(Add your terminal screenshots here showing the printed Pandas dataframe and the analysis sections)*
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/10303bd8-6b78-49f9-b78a-8b5ccec0d988" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/2f2cc386-5f6e-4112-aef2-1bd5ec29bcde" />
 
 # 8. Final Outcome
 The project successfully automated the processing of 20 student records. It generated a clean, readable terminal report showing individual performance, identified the Top 3 students across the college, and provided a clear breakdown of how each department and subject performed overall.
