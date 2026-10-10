@@ -46,4 +46,4 @@ The project successfully automated the processing of 20 student records. It gene
 - **Learning:** Gained hands-on experience using NumPy for vectorized operations over standard loops, and learned how to use Pandas `groupby` to aggregate data effectively.
 
 # 10. GitHub Repository
-*(Paste your final GitHub repository link here after uploading)*
+https://github.com/kushal6261/STUDENT-PERFORMANCE-ANALYTICS
